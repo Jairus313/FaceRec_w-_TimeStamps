@@ -7,7 +7,7 @@ Here's the sample snapshot of prediction:
 
 <img src="sample_predication.JPG" height="400" width="400">
 
-After recognisation of particular faces a simple timestamps are collected from system's time and later saved it .csv file format where the identity of the person and time is saved.
+After recognition of particular faces a simple timestamps are collected from system's time and later saved it .csv file format where the identity of the person and time is saved.
 
 Here's the sample snapshot of timestamp file:
 
