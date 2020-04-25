@@ -1,7 +1,7 @@
 # FaceRec with TimeStamps
 A Deep Learning Project for Face Recognition with Timestamps
 
-Here I have used CNN model with VGG16 architecture for training the model. Used HaarCascade for extracting faces from video.
+Here I have used CNN model with VGG16 architecture with some data augmentation technique(keras data generator) for training the model. Used HaarCascade for extracting faces from video.
 
 Here's the sample snapshot of prediction:
 
